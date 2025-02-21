@@ -37,6 +37,7 @@
   "packageManager": "pnpm@10.4.0",
   "dependencies": {
     "@clack/prompts": "^0.10.0",
+    "@sentry/nextjs": "9",
     "commander": "^13.1.0"
   },
   "type": "module"
